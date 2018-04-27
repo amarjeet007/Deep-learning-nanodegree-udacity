@@ -27,8 +27,8 @@ There are also notebooks used as projects for the Nanodegree program. In the pro
 ### Projects
 
 * [Your First Neural Network](https://github.com/amarjeet007/Deep-learning-nanodegree-udacity/tree/master/first-neural-network): Implement a neural network in Numpy to predict bike rentals.
-* [Image classification]: Build a convolutional neural network with TensorFlow to classify CIFAR-10 images.
-* [Text Generation]: Train a recurrent neural network on scripts from The Simpson's (copyright Fox) to generate new scripts.
+* [dog-breed-classifier](https://github.com/amarjeet007/Deep-learning-nanodegree-udacity/tree/master/dog-breed-classifier): Build a convolutional neural network with TensorFlow to classify CIFAR-10 images.
+* [tv-script-generation](https://github.com/amarjeet007/Deep-learning-nanodegree-udacity/tree/master/tv-script-generation-master): Train a recurrent neural network on scripts from The Simpson's (copyright Fox) to generate new scripts.
 * [Machine Translation]: Train a sequence to sequence network for English to French translation (on a simple dataset)
 * [Face Generation]: Use a DCGAN on the CelebA dataset to generate images of novel and realistic human faces.
 
